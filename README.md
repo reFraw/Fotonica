@@ -1,3 +1,5 @@
+# PHOTONICS LABORATORY FOR MEDICAL DIAGNOSTICS
+
 This repository contains the papers conducted for the "Photonics Laboratory for Medical Diagnostics" course.  
 The following is a summary containing the topics covered:
 
