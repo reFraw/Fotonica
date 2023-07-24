@@ -1,4 +1,9 @@
-# Relazioni per il corso Laboratorio di fotonica per la medicina
+This repository contains the papers conducted for the "Photonics Laboratory for Medical Diagnostics" course.  
+The following is a summary containing the topics covered:
 
-- LAB01 : Spettroscopia d'assorbimento UV-Vis
-- LAB02 : Spettroscopia a fluorescenza tramite probe in fibra ottica
+* LAB01 - UV-Vis absorption spectroscopy
+* LAB02 - Fluorescence spectroscopy using fiber optic probes
+* LAB03 - Antigenic detection in SPR using Biacore 8K
+* LAB04 - Raman spectroscopy and SERS
+* LAB05 - ELISA: Enzyme Linked Immunosorbent Assay
+* LAB06 - Characterization of a Lab-On-Fiber optical fiber biosensor.
