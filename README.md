@@ -9,3 +9,8 @@ The following is a summary containing the topics covered:
 * LAB04 - Raman spectroscopy and SERS
 * LAB05 - ELISA: Enzyme Linked Immunosorbent Assay
 * LAB06 - Characterization of a Lab-On-Fiber optical fiber biosensor.
+
+## Authors
+* **Benedetta Masone** - *main contributor* - [Bendetta2000](https://github.com/Benedetta2000)
+* **Martina Rainone** - *main contributor*
+* **Fabrizio Ravelli** - *main contributor* - [reFraw](https://github.com/reFraw)
